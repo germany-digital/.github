@@ -1,3 +1,3 @@
 # .github
 
-Special repository for the organization
+Special repository for the organizations profile
