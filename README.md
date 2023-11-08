@@ -1,4 +1,4 @@
 # germany.digital
 
-Iniziative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland
+Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland
 
