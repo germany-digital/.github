@@ -1,4 +1,3 @@
-# germany.digital
+# .github
 
-Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland
-
+Special repository for the organization
