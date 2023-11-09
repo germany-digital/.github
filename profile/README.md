@@ -8,12 +8,14 @@ Staates.
 
 **Dazu braucht es:**
 
-- [Eine einheitliche Infrastruktur](https://github.com/germany-digital/gti) (die funktioniert!)
+- [Eine interoperable Infrastruktur](https://github.com/germany-digital/gti) (die funktioniert!)
   - zur Authentifizierung
   - zur Kommunikation
-  - zur Ablage
+  - zur datenschutzkonformen Speicherung
+
+sowie 
     
-- [sowie die gesetztlichen Rahmenbedingungen](https://github.com/germany-digital/gdg) 
+- [gesetztliche Rahmenbedingungen](https://github.com/germany-digital/gdg) 
   - zur Informationsfreiheit
   - zum Datenschutz
   - zur Zulassung
