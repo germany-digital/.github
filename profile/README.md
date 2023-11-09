@@ -1,7 +1,7 @@
 # germany-digital
 
 Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland;
-eine der wichtigsten anstehenden (hoheitlichen!) Aufgaben unseres Staates im digitalen Zeitalter!
+eine der wichtigsten anstehenden Aufgaben unseres Staates im digitalen Zeitalter!
 
 **Dazu braucht es:**
 
