@@ -5,7 +5,7 @@ eine der wichtigsten anstehenden (hoheitlichen!) Aufgaben unseres Staates im dig
 
 **Dazu braucht es:**
 
-- Eine einheitliche Systemarchitektur
+- Eine einheitliche Infrastruktur
   - zur Authentifizierung
   - zur Kommunikation
   - zur Ablage
