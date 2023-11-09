@@ -5,11 +5,11 @@ eine der wichtigsten anstehenden (hoheitlichen!) Aufgaben unseres Staates im dig
 
 **Dazu braucht es:**
 
-- Eine einheitliche Infrastruktur
+- [Eine einheitliche Infrastruktur](https://github.com/germany-digital/gti)
   - zur Authentifizierung
   - zur Kommunikation
   - zur Ablage
-- sowie die gesetztlichen Rahmenbedingungen
+- [sowie die gesetztlichen Rahmenbedingungen](https://github.com/germany-digital/gdg)
   - zur Informationsfreiheit
   - zum Datenschutz
   - zur Zulassung
