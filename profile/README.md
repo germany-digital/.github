@@ -1,15 +1,17 @@
 # germany-digital
 
-Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland;
-eine der wichtigsten anstehenden Aufgaben unseres Staates im digitalen Zeitalter!
+Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland.
+Eine der aus unserer Sicht wichtigsten anstehenden (hoheitlichen) Aufgaben unseres 
+Staates. 
 
 **Dazu braucht es:**
 
-- [Eine einheitliche Infrastruktur](https://github.com/germany-digital/gti)
+- [Eine einheitliche Infrastruktur](https://github.com/germany-digital/gti) (die funktioniert!)
   - zur Authentifizierung
   - zur Kommunikation
   - zur Ablage
-- [sowie die gesetztlichen Rahmenbedingungen](https://github.com/germany-digital/gdg)
+    
+- [sowie die gesetztlichen Rahmenbedingungen](https://github.com/germany-digital/gdg) 
   - zur Informationsfreiheit
   - zum Datenschutz
   - zur Zulassung
