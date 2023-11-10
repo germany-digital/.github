@@ -6,23 +6,24 @@ Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschla
 Eine der aus unserer Sicht wichtigsten anstehenden (hoheitlichen) Aufgaben unseres 
 Staates. 
 
-**Dazu braucht es:**
+**Dazu braucht es**
 
-eine
+- [Eine einheitliche Infrastruktur](https://github.com/germany-digital/gti)
 
-- [einheitliche Infrastruktur](https://github.com/germany-digital/gti) (die funktioniert!)
   - zur Authentifizierung
   - zur Kommunikation
   - zur Speicherung
 
-sowie 
-    
-- [gesetzliche Rahmenbedingungen](https://github.com/germany-digital/gdg) 
+- [Die gesetzlichen Rahmenbedingungen](https://github.com/germany-digital/gdg)
+
   - zur Informationsfreiheit
   - zum Datenschutz
   - zur Zulassung
 
 ... so dass die einzelnen Digitalisierungsprojekte nach und nach darauf umsteigen können. 
+
+_____
+Für mehr Details siehe unser: [PR-Material](https://github.com/germany-digital/pr) 
 
 <!------------------------- external links ------------------------->
 
