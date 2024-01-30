@@ -2,9 +2,9 @@
 
 # germany-digital
 
-Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland.
-Eine der aus unserer Sicht wichtigsten anstehenden (hoheitlichen) Aufgaben unseres 
-Staates. 
+Initiative zur Konsolidierung der diversen Digitalisierungsprojekte in Deutschland: 
+Einer Digitalisierungsstrategie. Eine der aus unserer Sicht wichtigsten anstehenden 
+(hoheitlichen) Aufgaben unseres Staates. 
 
 **Dazu braucht es**
 
